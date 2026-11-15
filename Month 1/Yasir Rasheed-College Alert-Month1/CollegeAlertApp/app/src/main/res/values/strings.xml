@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">College Alert</string>
+    <string name="channel_name">Campus event reminders</string>
+    <string name="channel_desc">Reminders for upcoming campus events</string>
+</resources>

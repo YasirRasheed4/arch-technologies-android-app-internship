@@ -1,0 +1,61 @@
+com.arch.artgallery.app-appcompat-resources-1.6.1-0 C:\Users\ygill\.gradle\caches\9.6.0\transforms\0e21b1ea3324ae177e0f215c66603d21\transformed\appcompat-resources-1.6.1\res
+com.arch.artgallery.app-navigation-common-2.8.2-1 C:\Users\ygill\.gradle\caches\9.6.0\transforms\13ddf03c5a9f47e6445b7ead5425fdd1\transformed\navigation-common-2.8.2\res
+com.arch.artgallery.app-room-runtime-2.6.1-2 C:\Users\ygill\.gradle\caches\9.6.0\transforms\1a7675bf6ce456da9ec092f7f2c3e215\transformed\room-runtime-2.6.1\res
+com.arch.artgallery.app-activity-1.9.2-3 C:\Users\ygill\.gradle\caches\9.6.0\transforms\2a428545fd6e7a9cf18c9ed1c9fd1d67\transformed\activity-1.9.2\res
+com.arch.artgallery.app-customview-poolingcontainer-1.0.0-4 C:\Users\ygill\.gradle\caches\9.6.0\transforms\2bf2642a6c1ae00d61aeafada6d65eae\transformed\customview-poolingcontainer-1.0.0\res
+com.arch.artgallery.app-material3-release-5 C:\Users\ygill\.gradle\caches\9.6.0\transforms\2d0242c39df1a6a40427a83d697ce29c\transformed\material3-release\res
+com.arch.artgallery.app-material-icons-core-release-6 C:\Users\ygill\.gradle\caches\9.6.0\transforms\37dc154ee64b3ebc7dc80a75acb0e7b0\transformed\material-icons-core-release\res
+com.arch.artgallery.app-ui-geometry-release-7 C:\Users\ygill\.gradle\caches\9.6.0\transforms\3e97230051a12e160c1d4fa0cf8089e0\transformed\ui-geometry-release\res
+com.arch.artgallery.app-core-ktx-1.13.1-8 C:\Users\ygill\.gradle\caches\9.6.0\transforms\48fca60fed84166433d0a48f3b0fac62\transformed\core-ktx-1.13.1\res
+com.arch.artgallery.app-profileinstaller-1.3.1-9 C:\Users\ygill\.gradle\caches\9.6.0\transforms\4a6d485db5add41c9f987bde10e66085\transformed\profileinstaller-1.3.1\res
+com.arch.artgallery.app-material-icons-extended-release-10 C:\Users\ygill\.gradle\caches\9.6.0\transforms\51aec700187dc4eea08ff76b66b1a150\transformed\material-icons-extended-release\res
+com.arch.artgallery.app-core-1.13.1-11 C:\Users\ygill\.gradle\caches\9.6.0\transforms\531ef86f33a5d068725dc312b26c6bc8\transformed\core-1.13.1\res
+com.arch.artgallery.app-lifecycle-viewmodel-release-12 C:\Users\ygill\.gradle\caches\9.6.0\transforms\5db48738e664903c5dba74f1483855e6\transformed\lifecycle-viewmodel-release\res
+com.arch.artgallery.app-foundation-release-13 C:\Users\ygill\.gradle\caches\9.6.0\transforms\5e1ec5d819b6766510f0b912e1e959b2\transformed\foundation-release\res
+com.arch.artgallery.app-coil-base-2.7.0-14 C:\Users\ygill\.gradle\caches\9.6.0\transforms\606a16ac96704f3fce5a204e9fca98b7\transformed\coil-base-2.7.0\res
+com.arch.artgallery.app-navigation-compose-2.8.2-15 C:\Users\ygill\.gradle\caches\9.6.0\transforms\6126c9463652ee5bebaee3bce9ab8398\transformed\navigation-compose-2.8.2\res
+com.arch.artgallery.app-lifecycle-viewmodel-compose-release-16 C:\Users\ygill\.gradle\caches\9.6.0\transforms\62cef4d600a5e50d1e4b9a7427300341\transformed\lifecycle-viewmodel-compose-release\res
+com.arch.artgallery.app-animation-core-release-17 C:\Users\ygill\.gradle\caches\9.6.0\transforms\65f2db46bcaa12d1c779a68f514cdd94\transformed\animation-core-release\res
+com.arch.artgallery.app-ui-text-release-18 C:\Users\ygill\.gradle\caches\9.6.0\transforms\6f1183147c566951d53a3f2581189025\transformed\ui-text-release\res
+com.arch.artgallery.app-lifecycle-viewmodel-ktx-2.8.6-19 C:\Users\ygill\.gradle\caches\9.6.0\transforms\6f87be86f994d2bc7b3ccd654943ff08\transformed\lifecycle-viewmodel-ktx-2.8.6\res
+com.arch.artgallery.app-ui-release-20 C:\Users\ygill\.gradle\caches\9.6.0\transforms\713797c5b0b1d0b92e128609392462ca\transformed\ui-release\res
+com.arch.artgallery.app-sqlite-2.4.0-21 C:\Users\ygill\.gradle\caches\9.6.0\transforms\761e7bfb9a188da99d302a71bd6f010c\transformed\sqlite-2.4.0\res
+com.arch.artgallery.app-lifecycle-runtime-ktx-release-22 C:\Users\ygill\.gradle\caches\9.6.0\transforms\834107a3f2dbe03c0af3efbeeac8b9b7\transformed\lifecycle-runtime-ktx-release\res
+com.arch.artgallery.app-navigation-runtime-2.8.2-23 C:\Users\ygill\.gradle\caches\9.6.0\transforms\897083cdd7b4f24b3a2179b572b7aef0\transformed\navigation-runtime-2.8.2\res
+com.arch.artgallery.app-runtime-saveable-release-24 C:\Users\ygill\.gradle\caches\9.6.0\transforms\8ccbfb83d0a498321004dba18130dda9\transformed\runtime-saveable-release\res
+com.arch.artgallery.app-ui-tooling-release-25 C:\Users\ygill\.gradle\caches\9.6.0\transforms\98c31049898e3debef5b4d78d19d51a5\transformed\ui-tooling-release\res
+com.arch.artgallery.app-lifecycle-runtime-release-26 C:\Users\ygill\.gradle\caches\9.6.0\transforms\a424865611b7e62e1a23dc626aa4b3ae\transformed\lifecycle-runtime-release\res
+com.arch.artgallery.app-ui-tooling-data-release-27 C:\Users\ygill\.gradle\caches\9.6.0\transforms\a534684b2cdda1388e3e8e0151a7a7c1\transformed\ui-tooling-data-release\res
+com.arch.artgallery.app-animation-release-28 C:\Users\ygill\.gradle\caches\9.6.0\transforms\a710f4400802800fcb117f2297963cad\transformed\animation-release\res
+com.arch.artgallery.app-lifecycle-runtime-compose-release-29 C:\Users\ygill\.gradle\caches\9.6.0\transforms\a90266e1feed04e545c0bf58362dc51e\transformed\lifecycle-runtime-compose-release\res
+com.arch.artgallery.app-emoji2-1.3.0-30 C:\Users\ygill\.gradle\caches\9.6.0\transforms\aaea17b762999861b762e1372746996e\transformed\emoji2-1.3.0\res
+com.arch.artgallery.app-annotation-experimental-1.4.1-31 C:\Users\ygill\.gradle\caches\9.6.0\transforms\ab1aad2c972e9405a501fedfedfcb760\transformed\annotation-experimental-1.4.1\res
+com.arch.artgallery.app-foundation-layout-release-32 C:\Users\ygill\.gradle\caches\9.6.0\transforms\adeaba6e17b90ebc7302f94ed78c0159\transformed\foundation-layout-release\res
+com.arch.artgallery.app-savedstate-1.2.1-33 C:\Users\ygill\.gradle\caches\9.6.0\transforms\aec5fe9a65bc2ac798641d665e462c0c\transformed\savedstate-1.2.1\res
+com.arch.artgallery.app-navigation-runtime-ktx-2.8.2-34 C:\Users\ygill\.gradle\caches\9.6.0\transforms\b4af6708288673c982b057133e21b4a3\transformed\navigation-runtime-ktx-2.8.2\res
+com.arch.artgallery.app-ui-graphics-release-35 C:\Users\ygill\.gradle\caches\9.6.0\transforms\b62a556d7e7c57f680d488be9c52d5ab\transformed\ui-graphics-release\res
+com.arch.artgallery.app-lifecycle-viewmodel-savedstate-2.8.6-36 C:\Users\ygill\.gradle\caches\9.6.0\transforms\bcb059ac27ad7cd30b70a10e852412a0\transformed\lifecycle-viewmodel-savedstate-2.8.6\res
+com.arch.artgallery.app-material-ripple-release-37 C:\Users\ygill\.gradle\caches\9.6.0\transforms\bcc13d960cf20272550fd01655be0877\transformed\material-ripple-release\res
+com.arch.artgallery.app-lifecycle-livedata-core-2.8.6-38 C:\Users\ygill\.gradle\caches\9.6.0\transforms\bcc804cec7163edb0c647ac33ae925a6\transformed\lifecycle-livedata-core-2.8.6\res
+com.arch.artgallery.app-savedstate-ktx-1.2.1-39 C:\Users\ygill\.gradle\caches\9.6.0\transforms\bf0f51066e8badc6a0cbb9377cd0e4fb\transformed\savedstate-ktx-1.2.1\res
+com.arch.artgallery.app-room-ktx-2.6.1-40 C:\Users\ygill\.gradle\caches\9.6.0\transforms\c6680d40f6aedfadc9d9883dd000e5de\transformed\room-ktx-2.6.1\res
+com.arch.artgallery.app-core-runtime-2.2.0-41 C:\Users\ygill\.gradle\caches\9.6.0\transforms\c9a38b97a57dfbc5a1d1c0df47d77af2\transformed\core-runtime-2.2.0\res
+com.arch.artgallery.app-activity-compose-1.9.2-42 C:\Users\ygill\.gradle\caches\9.6.0\transforms\cd19e3297268bcfb6f3a524468aaccea\transformed\activity-compose-1.9.2\res
+com.arch.artgallery.app-material-release-43 C:\Users\ygill\.gradle\caches\9.6.0\transforms\d758479fca88ca5dfec4c9547fca5d0a\transformed\material-release\res
+com.arch.artgallery.app-ui-unit-release-44 C:\Users\ygill\.gradle\caches\9.6.0\transforms\dce245179a3b907b84699ce7a8251604\transformed\ui-unit-release\res
+com.arch.artgallery.app-navigation-common-ktx-2.8.2-45 C:\Users\ygill\.gradle\caches\9.6.0\transforms\dd00f263091e97e4d81bc92777230cd8\transformed\navigation-common-ktx-2.8.2\res
+com.arch.artgallery.app-ui-tooling-preview-release-46 C:\Users\ygill\.gradle\caches\9.6.0\transforms\e554bb00f64e111acedbc4f0a3325211\transformed\ui-tooling-preview-release\res
+com.arch.artgallery.app-sqlite-framework-2.4.0-47 C:\Users\ygill\.gradle\caches\9.6.0\transforms\ea254cbb03c4e733effd794ad58fc244\transformed\sqlite-framework-2.4.0\res
+com.arch.artgallery.app-activity-ktx-1.9.2-48 C:\Users\ygill\.gradle\caches\9.6.0\transforms\eef3896c079bfc3ee0985d52c40d44c2\transformed\activity-ktx-1.9.2\res
+com.arch.artgallery.app-lifecycle-process-2.8.6-49 C:\Users\ygill\.gradle\caches\9.6.0\transforms\f26e49795bbdc42a99373d8b6ab0ab8b\transformed\lifecycle-process-2.8.6\res
+com.arch.artgallery.app-startup-runtime-1.1.1-50 C:\Users\ygill\.gradle\caches\9.6.0\transforms\f8a86069374f3a4290d8375bef3610f5\transformed\startup-runtime-1.1.1\res
+com.arch.artgallery.app-graphics-path-1.0.1-51 C:\Users\ygill\.gradle\caches\9.6.0\transforms\fc2968cba9c1eab855254a5330be5fae\transformed\graphics-path-1.0.1\res
+com.arch.artgallery.app-ui-util-release-52 C:\Users\ygill\.gradle\caches\9.6.0\transforms\fca09bcb95eede8b7df438df6d4ee8d0\transformed\ui-util-release\res
+com.arch.artgallery.app-runtime-release-53 C:\Users\ygill\.gradle\caches\9.6.0\transforms\fcbcda3efb1e38943bea1e2d81fc455e\transformed\runtime-release\res
+com.arch.artgallery.app-pngs-54 D:\Internships\Archtech\Month 2\Yasir-Rasheed_Art-Gallery_Month2\app\build\generated\res\pngs\debug
+com.arch.artgallery.app-resValues-55 D:\Internships\Archtech\Month 2\Yasir-Rasheed_Art-Gallery_Month2\app\build\generated\res\resValues\debug
+com.arch.artgallery.app-packageDebugResources-56 D:\Internships\Archtech\Month 2\Yasir-Rasheed_Art-Gallery_Month2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.arch.artgallery.app-packageDebugResources-57 D:\Internships\Archtech\Month 2\Yasir-Rasheed_Art-Gallery_Month2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.arch.artgallery.app-debug-58 D:\Internships\Archtech\Month 2\Yasir-Rasheed_Art-Gallery_Month2\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.arch.artgallery.app-debug-59 D:\Internships\Archtech\Month 2\Yasir-Rasheed_Art-Gallery_Month2\app\src\debug\res
+com.arch.artgallery.app-main-60 D:\Internships\Archtech\Month 2\Yasir-Rasheed_Art-Gallery_Month2\app\src\main\res
